@@ -1,0 +1,233 @@
+country,sitename,province,locname,loclong,loclat,recs,presses,post_0,ante_0,post_1,ante_1
+Algeria,Azeffoun,"Mauretania Caesarensis",none,4.4225,36.8938888,1,5,-999,999,-999,999
+Algeria,"Bir Sgaoun","Africa Proconsularis",none,8.34805555,35.2047222,1,6,-999,999,-999,999
+Algeria,"Bir Sgauon","Africa Proconsularis","Temple to Saturn",8.34805555,35.2308333,1,2,-999,999,-999,999
+Algeria,"Kherbet Agoub ","Mauretania Caesarensis",none,9.59472222,35.6694444,1,21,100,300,450,550
+Algeria,"Kherbet Er-R'ihba","Mauretania Caesarensis",none,5.1,35.7833333,1,2,-999,999,-999,999
+Algeria,"Kherbet Er-R'ihba","Mauretania Caesarensis",none,5.432968,35.963823,1,2,-999,999,-999,999
+Algeria,Nador,"Mauretania Caesarensis",none,-2.93333333,35.1666666,1,2,-999,999,-999,999
+Algeria,Perigotville,"Mauretania Caesarensis","El Haïtane",5.495302,36.378438,1,2,-999,999,-999,999
+Algeria,Perigotville,"Mauretania Caesarensis",Kherba,5.502041,36.362882,1,8,-999,999,-999,999
+Algeria,Theveste,"Africa Proconsularis","Tebessa Khalia",8.11666666,35.3997222,1,6,-999,999,-999,999
+Algeria,Tipasa,"Mauretania Caesarensis",none,2.44027777,36.5933333,1,2,-999,999,-999,999
+Algeria,Tnourist,"Mauretania Caesarensis",none,6.03333333,35.2833333,1,4,-999,999,-999,999
+Croatia,Bale,Italia,"Campo Sorugo",13.78554,45.038838,1,2,-999,999,-999,999
+Croatia,Bale,Italia,Valencan,13.78554,45.038838,1,2,-999,999,-999,999
+Croatia,Banjole,Italia,"Olmo Grande",13.86478,44.824249,1,2,100,300,100,300
+Croatia,Barbariga,Italia,Maricchio,13.764611,44.985941,1,2,-999,999,-999,999
+Croatia,Barbariga,Italia,"Villa Marittima",13.74138889,44.9891666,1,10,-100,-1,600,650
+Croatia,Briuni,Italia,Castrum,13.758501,44.894065,1,10,-200,-100,300,400
+Croatia,Briuni,Italia,"Monte Collisi",13.76666667,44.9166666,1,4,1,30,-999,999
+Croatia,Briuni,Italia,"San Nicola",13.76666667,44.9166666,1,1,-999,999,-999,999
+Croatia,Briuni,Italia,"Val Catena",13.773971,44.910126,1,3,1,100,-999,999
+Croatia,Cervar-Porat,Italia,"bay of Loron",18.19777778,45.6977777,1,3,-999,999,-999,999
+Croatia,Galizana,Italia,"San Pietro",13.869739,44.933454,1,2,-999,999,-999,999
+Croatia,Galizana,Italia,none,13.869739,44.933454,2,4,-999,999,-999,999
+Croatia,Hvar,Dalmatia,"Dol (Kupinovik)",16.619,43.173,1,2,-999,999,-999,999
+Croatia,Makarska,Dalmatia,"Sveti Petar",17.01194444,43.2933333,1,2,-999,999,-999,999
+Croatia,Medulin,Italia,"San Andrea",13.933171,44.815984,1,2,-999,999,-999,999
+Croatia,Morgojelo,Dalmatia,none,17.71416667,43.1122222,1,2,400,600,-999,999
+Croatia,Muline,Dalmatia,none,15.07055556,44.1327777,1,2,-999,999,-999,999
+Croatia,Peroj,Italia,Lacusa,13.797308,44.952534,1,2,-999,999,-999,999
+Croatia,Peroj,Italia,Salvella,13.797308,44.952534,1,2,-999,999,-999,999
+Croatia,Pula,Italia,Sijana,13.86391,44.879442,1,3,-999,999,-999,999
+Croatia,Pula,Italia,"via Kranjcevic",13.85,44.8666666,1,1,-999,999,-999,999
+Croatia,Rovinj,Italia,Chiubani,13.635872,45.081293,1,2,-999,999,-999,999
+Croatia,Rovinj,Italia,"Porto Vestre",13.688423,45.051192,1,2,-999,999,-999,999
+Croatia,Sisan,Italia,"Stanzia Usic",13.943081,44.851109,1,2,100,300,100,300
+Croatia,Svetvincenat,Italia,"Jursici (Roveria)",13.875867,45.021582,1,2,-999,999,-999,999
+Croatia,Trieste,Italia,"San Sabba",13.8,45.6333333,1,2,-999,999,-999,999
+Egypt,"Borg el-Arab",Aegyptus,none,29.61166667,30.8488888,1,2,-999,999,-999,999
+France,Candeou,"Gallia Aquitania",Peymenede,6.87888888,43.63,1,4,1,300,1,300
+France,Combe-de-Fignols,"Gallia Aquitania",none,3.15694444,48.1755555,1,2,-999,999,-999,999
+France,Encoron,"Gallia Aquitania",Trets,5.68444444,43.4469444,1,2,-999,999,-999,999
+France,Grand-Loou,"Gallia Aquitania","La Roquebrusanne",5.97611111,43.34,1,2,-50,200,-50,200
+France,"La Domergue","Gallia Aquitania",Sauvian,3.24166666,43.3016666,1,2,-999,999,-999,999
+France,"Le Molard","Gallia Aquitania",Donzere,4.70638888,44.4441666,1,4,70,96,200,300
+France,"Les Farguettes","Gallia Aquitania",Nissan,3.11472222,43.3105555,1,2,-999,999,-999,999
+France,"Les Toulons","Gallia Aquitania",Rians,5.71083333,43.6175,1,5,-999,999,350,425
+France,Mas-de-la-Grange,"Gallia Aquitania","St.Etienne du Gres",4.7225,43.7802777,1,2,-999,999,-999,999
+France,Maurely,"Gallia Aquitania",St.-Antonin,5.64888888,43.6111111,1,2,-999,999,-999,999
+France,"Notre Dame de la Mure","Gallia Narbonensis",Erome,4.81972222,45.1208333,1,2,1,199,1,199
+France,Pignans,"Gallia Aquitania",none,6.21666666,43.2999998,1,4,-999,999,-999,999
+France,"Rue du Port","Gallia Aquitania",Cavalaire,6.53194444,43.1711111,1,4,70,399,70,399
+France,Saint-Martin,"Gallia Aquitania",Taradeau,6.43527777,43.4472222,1,3,-50,599,-50,599
+France,"St. Michelle a la Garde","Gallia Aquitania",none,4.75555555,44.3930555,1,7,-50,9999,-999,999
+Germany,Brauneberg,"Germania Superior",none,6.9875,49.9091666,1,2,300,9999,-999,999
+Greece,Delos,Graecia,none,25.266456,37.397965,1,2,-100,-75,-69,-50
+Greece,Delos,Graecia,none,25.27405,37.406013,1,2,-999,999,-75,-69
+Israel,Avdon,Iudaea,Shaumariya,35.191283,33.048594,1,2,-999,999,-999,999
+Israel,Avedat,Iudaea,none,36.77222222,30.7930555,1,2,-999,999,-999,999
+Israel,Ya'ara,Iudaea,"Horvat Zabadi",35.168092,33.065423,1,2,-999,999,-999,999
+Italy,Blera,Italia,"Pian della Noce",12.03333333,42.2833333,1,2,-100,1,300,400
+Italy,Boscoreale,Italia,"Villa Pisanella",14.477606,40.766229,1,2,-100,-50,79,79
+Italy,Cerveteri,Italia,"Villa del Seccareccio",12.1,42.0,1,2,-100,200,-100,200
+Italy,"Cesena di Senigallia",Italia,none,13.21666667,43.7166666,1,2,-50,1,25,75
+Italy,Cosa,Italia,Settefinestre,11.31694444,42.4466666,1,4,-999,999,-999,999
+Italy,Cosa,Italia,"Via della Fattoria",11.28444444,42.4172222,1,4,-999,999,-999,999
+Italy,"Fiano Romano",Italia,"Fondo Nocioni-Gigliotti",12.580671,42.134065,1,2,-999,999,-999,999
+Italy,"Fiano Romano",Italia,"Villa ""della Standa""",12.592762,42.150051,1,2,-999,999,-999,999
+Italy,"Fiano Romano",Italia,"Villa dei Volusii",12.600822,42.133263,1,2,-999,999,-999,999
+Italy,Gragnano,Italia,"Casa Miri",14.51666667,40.6833333,1,2,-999,999,-999,999
+Italy,Grottarossa,Italia,"Saxa Rubra",12.49194444,41.965,1,2,-200,-1,-999,999
+Italy,Licenza,Italia,"Prato la Corte",12.91666667,42.0833333,1,2,1,9999,-999,999
+Italy,Melfi,Italia,"Contrada Leonessa",15.603985,41.07704,1,4,-999,999,-999,999
+Italy,Ordona,Italia,"Posta Crusta",15.61666667,41.3166666,1,2,-999,999,-999,999
+Italy,Osimo,Italia,"Monte Torto",13.45369,43.488981,1,5,-50,-1,100,200
+Italy,Pompeii,Italia,"Villa of the Mysteries",14.477484,40.753552,1,2,-80,-70,79,79
+Italy,Rome,Italia,"Via Togliatti",12.49194444,41.8838888,1,2,-999,999,-999,999
+Italy,Rossano,Italia,Ciminata,16.617348,39.603214,1,2,-75,-25,25,75
+Italy,"S. Sebastiano al Vesuvio",Italia,none,14.36666667,40.85,1,2,-100,79,-100,79
+Italy,Sperlonga,Italia,"Villa Prato",13.426529,41.267609,1,2,-150,-100,-60,-40
+Italy,Tivoli,Italia,"Casale S. Angelo",12.825122,41.923932,1,2,-200,9999,-999,999
+Italy,Tivoli,Italia,Granaraccio,12.740419,41.918429,1,4,-999,999,-999,999
+Italy,"Tomba di Nerone",Italia,"Casale Ghella",12.43472222,41.9752777,1,2,-999,999,-999,999
+Italy,"Val Melaina",Italia,"Vigne Nuove",12.52805556,41.9683333,1,3,-100,-27,200,300
+Italy,Varignano,Italia,none,9.85194444,44.0883333,1,2,-100,-50,500,600
+Libya,"Al Bayda","Creta et Cyrenaica","Kaf el Kebir",32.7491,21.7663,1,2,-999,999,-999,999
+Libya,"Bir Damra","Africa Proconsularis","Site 66",13.88333333,32.5255555,1,3,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 13",13.91666667,32.5041666,1,5,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 19",13.85833333,32.4916666,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 21",13.8625,32.4888888,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 23",13.88888889,32.4888888,1,4,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 26",13.89166667,32.45,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 29",13.89166667,32.4333333,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 30",13.89166667,32.4333333,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 36",13.90833333,32.3833333,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 39",13.90833333,32.4,1,3,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 40",13.93055556,32.4166666,1,3,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 41",13.9525,32.4166666,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 42",14.0,32.4166666,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 44",13.8875,32.4472222,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 52",13.93333333,32.475,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 54",13.875,32.4916666,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 57",13.93333333,32.55,1,4,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 6",13.87083333,32.4541666,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 60",13.99861111,32.4722222,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 62",13.96916667,32.4583333,1,3,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 63",13.9,32.5333333,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 65",13.90833333,32.525,1,2,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 67",13.86666667,32.5,1,4,-999,999,-999,999
+Libya,"Gasr Ed-Dauun","Africa Proconsularis","Site 69",13.99722222,32.5041666,1,2,-999,999,-999,999
+Libya,"Gasr ez-Zlaseia","Africa Proconsularis","Site 56",13.88055556,32.5444444,1,3,-999,999,-999,999
+Libya,"Henchir Ouled","Africa Proconsularis",none,9.55916666,35.7047222,1,3,-999,999,-999,999
+Libya,"Henchir el-Mohammed","Africa Proconsularis",none,13.97083333,32.4416666,1,8,-999,999,-999,999
+Libya,"Henscir Sidi Hamdam","Africa Proconsularis",none,13.99166667,32.4555555,1,9,-999,999,-999,999
+Libya,Kuwayfiyah,"Creta et Cyrenaica",none,20.18333333,32.2,1,2,-999,999,-999,999
+Libya,Lamluda,"Creta et Cyrenaica",none,22.16666667,32.7833333,1,2,-999,999,-999,999
+Libya,"Senam Rudbir","Africa Proconsularis",none,13.810062,32.705744,1,3,-999,999,-999,999
+Libya,"Senam Semana","Africa Proconsularis",none,13.79944444,32.6230555,1,17,-999,999,-999,999
+Libya,"Senam el-Chadem","Africa Proconsularis","site 38",13.91666667,32.3833333,1,4,-999,999,-999,999
+Libya,"Senam el-Nejm","Africa Proconsularis","Senam Howod Nejem",0.0,0.0,1,3,-999,999,-999,999
+Libya,"Senam el-Nejm","Africa Proconsularis","Site 43",13.91666667,32.4416666,1,3,-999,999,-999,999
+Libya,Silin,"Africa Proconsularis",none,14.15361111,32.7133333,1,2,-999,999,-999,999
+Libya,"Udei el-Me","Africa Proconsularis","Site 10",13.9525,32.4583333,1,4,-999,999,-999,999
+Libya,"Udei el-Me","Africa Proconsularis","Site 2",13.87916667,32.4666666,1,3,-999,999,-999,999
+Libya,"Wadi Meauia","Africa Proconsularis","Site 15",14.13333333,32.5,1,2,-999,999,-999,999
+Morocco,Cotta,"Mauretania Tingitana",none,-5.93888888,35.76,1,2,-999,999,-999,999
+Morocco,Volubilis,"Mauretania Tingitana","Maison aux Colonnes",-5.55694444,34.0738888,1,2,-999,999,-999,999
+Morocco,Volubilis,"Mauretania Tingitana","Maison aux deux pressoirs",-5.55694444,34.0738888,1,2,-999,999,-999,999
+Morocco,Volubilis,"Mauretania Tingitana","Maison d'Orphee",-5.55694444,34.0738888,1,2,-999,999,-999,999
+Morocco,Volubilis,"Mauretania Tingitana","Palais de Gordien",-5.55694444,34.0738888,1,2,-999,999,-999,999
+Morocco,Volubilis,"Mauretania Tingitana",none,-5.55694444,34.0738888,1,2,-999,999,-999,999
+"Palestinian Territories","Azzun Atma",Iudaea,Khirbet-an-Najjar,35.009435,32.121666,1,2,-999,999,-999,999
+"Palestinian Territories","Hirbert Deir Sam'an",Iudaea,none,35.05138889,32.0677777,1,1,100,799,100,799
+"Palestinian Territories","Ras Abu Ma'aruf",Iudaea,none,35.24138889,31.825,1,4,-999,999,-999,999
+Portugal,"Sao Cucufate",Lusitania,none,-5.93333333,43.4666666,1,2,-999,999,-999,999
+Spain,"Aldea Quintana","Hispania Baetica","Torre de Don Lucas",-4.86592,37.697792,1,2,-999,999,9999,399
+Spain,Burguillos,"Hispania Baetica",Torreon,-5.950816,37.585734,1,2,1,499,1,499
+Spain,Cartagena,"Hispania Tarraconensis","El Molinete",-0.985793,37.602889,1,2,-999,999,-999,999
+Spain,"El Viso del Alcor","Hispania Baetica","Huerta de la Fabiana",-5.708504,37.395966,1,2,-999,999,9999,399
+Spain,Falces,"Hispania Tarraconensis","Villa de Los Villares",-1.8,42.3833333,1,3,-999,999,-999,999
+Spain,"Fuente Palmera","Hispania Baetica","Finca Marta",-5.081453,37.67008,1,2,-999,999,-999,999
+Spain,"Fuente Palmera","Hispania Baetica","Santa Magdalena",-5.095334,37.714663,1,2,-999,999,-999,999
+Spain,"Haza de Los Laticos","Hispania Baetica",none,-5.13194444,37.7916666,1,3,-999,999,9999,399
+Spain,Hornachuelos,"Hispania Baetica","Cortijo de Monte Alto",-5.270844,37.78357,1,2,-999,999,-999,999
+Spain,Jumilla,"Hispania Tarraconensis","Villa de La Alberca de Lo Roman",-1.13333333,37.9833333,1,2,-999,999,-999,999
+Spain,"La Moncloa","Hispania Baetica",none,-5.29666666,37.5325,1,2,1,799,1,799
+Spain,"Las Eras de S. Martin","Hispania Tarraconensis",Alfaro,-1.74916666,42.1783333,1,2,-999,999,-999,999
+Spain,"Palma del Rio","Hispania Baetica","Cortijo del Remolino",-5.233596,37.72297,1,2,-999,999,-999,999
+Spain,Posadas,"Hispania Baetica","Casa de Guarda",-5.166364,37.781793,1,2,-999,999,9999,399
+Spain,"San Pol del Mar",Lusitania,"El Morè",2.628852,41.611822,1,2,-999,999,-999,999
+Spain,Torrepalma,"Hispania Baetica","Huerta de la Torrecilla",-5.823035,37.392653,1,2,1,399,1,399
+Spain,Vallmora,"Hispania Tarraconensis",Teia,2.3125,41.4911111,1,6,-100,399,-100,399
+Spain,Villalón,"Hispania Baetica","Cortijo del Bramadero",-5.141972,37.715221,1,4,-100,399,-100,399
+Syria,"Hirbert Dureijat",Iudaea,none,35.63333333,33.0166666,1,6,-999,999,-999,999
+Tunisia,Agbia,"Africa Proconsularis",none,9.25207514,36.4053049,1,2,300,700,300,700
+Tunisia,"Ain Hammam","Africa Proconsularis",none,9.14187892,36.4005967,1,5,-999,999,-999,999
+Tunisia,"Ain Hammam","Africa Proconsularis",none,9.15785502,36.3959791,1,3,-999,999,-999,999
+Tunisia,"Ain Wassel","Africa Proconsularis",none,9.11558114,36.4612822,1,8,-200,-40,530,690
+Tunisia,"Ain Wassel","Africa Proconsularis",none,9.13739121,36.4610909,1,5,-200,-40,530,690
+Tunisia,Aunobari,"Africa Proconsularis",none,9.1935591,36.3980969,1,2,100,700,100,700
+Tunisia,Aunobari,"Africa Proconsularis",none,9.19716902,36.4013479,1,2,-999,999,-999,999
+Tunisia,"Ben Gardane","Africa Proconsularis","Henchir Bou Garmin",11.302077,33.193102,1,2,-999,999,-999,999
+Tunisia,Cillium,"Africa Proconsularis","Henchir Bou Sofa",8.764667,35.054183,1,6,-999,999,-999,999
+Tunisia,"Djebel Gorra","Africa Proconsularis","De Vos 51",9.1708657,36.4669244,1,2,100,300,300,450
+Tunisia,"Djebel Gorra","Africa Proconsularis",none,9.10722982,36.4649542,1,2,-999,999,-999,999
+Tunisia,"Djebel Gorra","Africa Proconsularis",none,9.13556821,36.4647856,1,3,-999,999,-999,999
+Tunisia,"Djebel Gorra","Africa Proconsularis",none,9.18187571,36.4802508,1,5,-999,999,-999,999
+Tunisia,"Djebel Gorra","Africa Proconsularis",none,9.18268804,36.4754574,1,2,-999,999,-999,999
+Tunisia,Dougga,"Africa Proconsularis","De Vos 2",9.170828,36.43998,1,3,-40,100,300,440
+Tunisia,Dougga,"Africa Proconsularis",none,9.18793949,36.3984556,1,2,100,300,530,690
+Tunisia,Dougga,"Africa Proconsularis",none,9.19067723,36.4201472,1,3,300,440,530,690
+Tunisia,Dougga,"Africa Proconsularis",none,9.19267533,36.4250486,1,2,100,300,300,450
+Tunisia,Dougga,"Africa Proconsularis",none,9.19321538,36.4396792,1,3,-200,-40,530,690
+Tunisia,Dougga,"Africa Proconsularis",none,9.19826599,36.4284603,1,2,-200,-40,300,440
+Tunisia,Dougga,"Africa Proconsularis",none,9.203165,36.427206,1,2,100,300,300,440
+Tunisia,Dougga,"Africa Proconsularis",none,9.208521,36.440619,1,2,100,300,530,690
+Tunisia,Dougga,"Africa Proconsularis",none,9.21763,36.434004,1,3,300,440,530,690
+Tunisia,Dougga,"Africa Proconsularis",none,9.21970409,36.4019043,1,5,100,300,300,440
+Tunisia,Dougga,"Africa Proconsularis",none,9.22,36.4236111,1,7,-999,999,-999,999
+Tunisia,Dougga,"Africa Proconsularis",none,9.22750169,36.4360123,1,2,100,700,100,700
+Tunisia,Dougga,"Africa Proconsularis",none,9.227908,36.431598,1,4,-200,-40,530,690
+Tunisia,Dougga,"Africa Proconsularis",none,9.23527707,36.4234619,1,3,300,440,300,440
+Tunisia,"Henchir Choud el-Battal","Africa Proconsularis",none,8.52361111,35.125,1,6,-999,999,-999,999
+Tunisia,"Henchir el-Goussa ","Africa Proconsularis",none,8.55,36.05,1,6,-999,999,-999,999
+Tunisia,"Henchir el-Kousset","Africa Proconsularis",none,8.65222222,35.1363888,1,6,-999,999,-999,999
+Tunisia,"Henchir et-Touil","Africa Proconsularis","KS 223",0.0,0.0,1,4,-999,999,-999,999
+Tunisia,"Henchir et-Touil","Africa Proconsularis","KS 225",9.10777777,35.3213888,1,4,-999,999,-999,999
+Tunisia,Henchir-el-Begar,"Africa Proconsularis","Henchir el Begar",8.893052,35.449216,1,10,-999,999,-999,999
+Tunisia,"Ksar el-Guelal","Africa Proconsularis","KS 031",9.07416666,35.2386111,1,18,-999,999,-999,999
+Tunisia,Maatria,"Africa Proconsularis",none,9.22279633,36.4841521,1,2,-999,999,-999,999
+Tunisia,Maatria,"Africa Proconsularis",none,9.22414942,36.4886695,1,2,-999,999,-999,999
+Tunisia,Maatria,"Africa Proconsularis",none,9.22621607,36.4841078,1,2,-999,999,-999,999
+Tunisia,Maatria,"Africa Proconsularis",none,9.23198663,36.4858598,1,2,-999,999,-999,999
+Tunisia,Maatria,"Africa Proconsularis",none,9.23963326,36.4946028,1,3,-999,999,-999,999
+Tunisia,Maatria,"Africa Proconsularis",none,9.25423772,36.5115557,1,3,-999,999,-999,999
+Tunisia,Maatria,"Africa Proconsularis",none,9.26005076,36.50032,1,2,-999,999,-999,999
+Tunisia,Maatria,"Africa Proconsularis",none,9.26115446,36.5092775,1,7,-999,999,-999,999
+Tunisia,Maatria,"Africa Proconsularis",none,9.26634793,36.5003663,1,3,-999,999,-999,999
+Tunisia,"Oued Arkou","Africa Proconsularis",none,9.13210004,36.4329255,1,2,300,450,300,450
+Tunisia,"Oued Arkou","Africa Proconsularis",none,9.14154918,36.4133715,1,5,-999,999,-999,999
+Tunisia,"Oued Arkou","Africa Proconsularis",none,9.1471877,36.4115989,1,2,-999,999,-999,999
+Tunisia,"Oued Arkou","Africa Proconsularis",none,9.1486579,36.4307499,1,3,100,300,300,440
+Tunisia,"Oued El Guetoussia","Africa Proconsularis",none,9.186056,36.408379,1,2,300,440,530,690
+Tunisia,"Oued El Guetoussia","Africa Proconsularis",none,9.190129,36.403706,1,8,100,300,530,690
+Tunisia,Suttua,"Africa Proconsularis",none,9.109037,36.449233,1,11,100,300,440,530
+Tunisia,Tamesmida,"Africa Proconsularis",none,8.38333333,35.0833333,1,8,-999,999,-999,999
+Tunisia,Teboursouk,"Africa Proconsularis",none,9.25413392,36.4755143,1,2,-999,999,-999,999
+Tunisia,Teboursouk,"Africa Proconsularis",none,9.258595,36.46397,1,3,-999,999,-999,999
+Tunisia,Teboursouk,"Africa Proconsularis",none,9.31270865,36.4695813,1,5,-999,999,-999,999
+Tunisia,Teboursouk,"Africa Proconsularis",none,9.34885571,36.4735427,1,3,-999,999,-999,999
+Tunisia,"Uchi Maius","Africa Proconsularis",none,9.08333333,36.3333333,1,11,400,700,400,700
+Turkey,Akkale,Cilicia,none,29.14833333,37.8122222,1,2,-999,999,-999,999
+Turkey,Pachna,Cyprus,"Ayios Stephanos",32.79555556,34.7791666,1,2,-999,999,-999,999
+Ukraine,Chersonesos,"Bosporan Kingdom",none,33.49333333,44.6116666,1,2,-999,999,-999,999
+Ukraine,Hermonassa,"Bosporan Kingdom",H1,36.72305556,45.2161111,1,3,-999,999,-999,999
+Ukraine,Hermonassa,"Bosporan Kingdom",H2,36.72305556,45.2161111,1,3,-999,999,-999,999
+Ukraine,Iluratum,"Bosporan Kingdom","I 1",47.75,63.3333333,1,3,-999,999,-999,999
+Ukraine,Mirmekion,"Bosporan Kingdom",M1,36.51944444,45.3525,1,3,-999,999,-999,999
+Ukraine,Mirmekion,"Bosporan Kingdom",M2,36.51944444,45.3525,1,3,-999,999,-999,999
+Ukraine,Mirmekion,"Bosporan Kingdom",M3,36.51944444,45.3525,1,3,-999,999,-999,999
+Ukraine,"Olbia (Crimea)","Bosporan Kingdom",O1,31.9,46.6830555,1,3,-999,999,-999,999
+Ukraine,"Olbia (Crimea)","Bosporan Kingdom",O4,31.9,46.6830555,1,2,-999,999,-999,999
+Ukraine,Patraesis,"Bosporan Kingdom","Pt 1",0.0,0.0,1,3,-999,999,-999,999
+Ukraine,Patraesis,"Bosporan Kingdom","Pt 2",0.0,0.0,1,5,-999,999,-999,999
+Ukraine,Phanagoria,"Bosporan Kingdom",Ph2,36.825,45.1888888,1,3,-999,999,-999,999
+Ukraine,Piatikolodeznoe,"Bosporan Kingdom",none,0.0,0.0,1,3,-999,999,-999,999
+Ukraine,Tenirgora,"Bosporan Kingdom",none,35.37916667,45.0488888,1,2,-999,999,-999,999
+Ukraine,Tyritake,"Bosporan Kingdom",T2,36.41722222,45.2363888,1,2,-999,999,-999,999
+Ukraine,Tyritake,"Bosporan Kingdom",T3,36.41722222,45.2363888,1,2,-999,999,-999,999
+Ukraine,Tyritake,"Bosporan Kingdom",T4,36.41722222,45.2363888,1,3,-999,999,-999,999
+Ukraine,Tyritake,"Bosporan Kingdom",T7,36.41722222,45.2363888,1,5,-999,999,-999,999
+,,,,,,0,6,,,,
